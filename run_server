@@ -1,0 +1,6 @@
+#!/bin/bash
+
+NBJOUEURS=4
+PORT=5555
+
+python server/server_sync.py $PORT $NBJOUEURS

@@ -1,0 +1,407 @@
+!SESSION 2012-01-31 13:24:12.849 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.google.gdt.eclipse.suite 1 0 2012-01-31 13:25:08.371
+!MESSAGE Registering: com.google.appengine.eclipse.sdkbundle_1.6.0.v201111171704r37
+
+!ENTRY com.google.gdt.eclipse.suite 1 0 2012-01-31 13:25:08.991
+!MESSAGE Registering: com.google.gwt.eclipse.sdkbundle_2.4.0.relr37v201110112027
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-01-31 13:29:17.422
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.423
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE Software being installed: Graphical Modeling Framework Notation 1.1.2.v20080916-2008-2108s733I3E4F15B59 (org.eclipse.gmf.runtime.notation.feature.group 1.1.2.v20080916-2008-2108s733I3E4F15B59)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE Software being installed: Graphical Modeling Framework Tests 2.0.0.v20080716-1600-7O7H0EDx2WYcXtcHFpU3s (org.eclipse.gmf.tests.feature.group 2.0.0.v20080716-1600-7O7H0EDx2WYcXtcHFpU3s)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE Missing requirement: GMF Diagram UI 1.0.102.v20080201-0201 (org.eclipse.gmf.runtime.diagram.ui 1.0.102.v20080201-0201) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE Missing requirement: GMF Diagram UI 1.0.3.v20070202-0200 (org.eclipse.gmf.runtime.diagram.ui 1.0.3.v20070202-0200) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE Missing requirement: GMF Diagram UI 1.1.2.v20080916-2008 (org.eclipse.gmf.runtime.diagram.ui 1.1.2.v20080916-2008) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.423
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE GMF Notation Model Support 1.0.1.v20060919-0800 (org.eclipse.gmf.runtime.notation 1.0.1.v20060919-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE GMF Notation Model Support 1.5.0.v20110309-2159 (org.eclipse.gmf.runtime.notation 1.5.0.v20110309-2159)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE GMF Notation Model Support 1.1.1.v20080716-1600 (org.eclipse.gmf.runtime.notation 1.1.1.v20080716-1600)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE GMF Notation Model Support 1.0.101.v20080114-2222 (org.eclipse.gmf.runtime.notation 1.0.101.v20080114-2222)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.423
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE From: GMF Diagram UI 1.5.0.v20110309-2230 (org.eclipse.gmf.runtime.diagram.ui 1.5.0.v20110309-2230)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE To: bundle org.eclipse.gmf.runtime.notation [1.2.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.423
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE From: Graphical Modeling Framework Notation 1.1.2.v20080916-2008-2108s733I3E4F15B59 (org.eclipse.gmf.runtime.notation.feature.group 1.1.2.v20080916-2008-2108s733I3E4F15B59)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE To: org.eclipse.gmf.runtime.notation [1.1.1.v20080716-1600]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.423
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE From: Graphical Modeling Framework Tests 2.0.0.v20080716-1600-7O7H0EDx2WYcXtcHFpU3s (org.eclipse.gmf.tests.feature.group 2.0.0.v20080716-1600-7O7H0EDx2WYcXtcHFpU3s)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.423
+!MESSAGE To: org.eclipse.gmf.runtime.diagram.ui [1.0.0,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-01-31 13:29:17.432
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.432
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.432
+!MESSAGE Software being installed: Graphical Modeling Framework Notation 1.1.2.v20080916-2008-2108s733I3E4F15B59 (org.eclipse.gmf.runtime.notation.feature.group 1.1.2.v20080916-2008-2108s733I3E4F15B59)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.432
+!MESSAGE Software being installed: Graphical Modeling Framework Tests 2.0.0.v20080716-1600-7O7H0EDx2WYcXtcHFpU3s (org.eclipse.gmf.tests.feature.group 2.0.0.v20080716-1600-7O7H0EDx2WYcXtcHFpU3s)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.432
+!MESSAGE Missing requirement: GMF Diagram UI 1.0.102.v20080201-0201 (org.eclipse.gmf.runtime.diagram.ui 1.0.102.v20080201-0201) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.432
+!MESSAGE Missing requirement: GMF Diagram UI 1.0.3.v20070202-0200 (org.eclipse.gmf.runtime.diagram.ui 1.0.3.v20070202-0200) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE Missing requirement: GMF Diagram UI 1.1.2.v20080916-2008 (org.eclipse.gmf.runtime.diagram.ui 1.1.2.v20080916-2008) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.433
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE GMF Notation Model Support 1.0.1.v20060919-0800 (org.eclipse.gmf.runtime.notation 1.0.1.v20060919-0800)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE GMF Notation Model Support 1.5.0.v20110309-2159 (org.eclipse.gmf.runtime.notation 1.5.0.v20110309-2159)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE GMF Notation Model Support 1.1.1.v20080716-1600 (org.eclipse.gmf.runtime.notation 1.1.1.v20080716-1600)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE GMF Notation Model Support 1.0.101.v20080114-2222 (org.eclipse.gmf.runtime.notation 1.0.101.v20080114-2222)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.433
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE From: GMF Diagram UI 1.5.0.v20110309-2230 (org.eclipse.gmf.runtime.diagram.ui 1.5.0.v20110309-2230)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE To: bundle org.eclipse.gmf.runtime.notation [1.2.0,2.0.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.433
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE From: Graphical Modeling Framework Notation 1.1.2.v20080916-2008-2108s733I3E4F15B59 (org.eclipse.gmf.runtime.notation.feature.group 1.1.2.v20080916-2008-2108s733I3E4F15B59)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE To: org.eclipse.gmf.runtime.notation [1.1.1.v20080716-1600]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:29:17.433
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE From: Graphical Modeling Framework Tests 2.0.0.v20080716-1600-7O7H0EDx2WYcXtcHFpU3s (org.eclipse.gmf.tests.feature.group 2.0.0.v20080716-1600-7O7H0EDx2WYcXtcHFpU3s)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:29:17.433
+!MESSAGE To: org.eclipse.gmf.runtime.diagram.ui [1.0.0,2.0.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-01-31 13:42:27.024
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:42:27.024
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.024
+!MESSAGE Software being installed: Graphical Modeling Framework SDK 2.0.1.v20070921-0000-7f79CSEMnY9yMVlrV-40M7vY1p8w (org.eclipse.gmf.sdk.feature.group 2.0.1.v20070921-0000-7f79CSEMnY9yMVlrV-40M7vY1p8w)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.024
+!MESSAGE Missing requirement: GMF Common Core 1.0.101.v20080118-1415 (org.eclipse.gmf.runtime.common.core 1.0.101.v20080118-1415) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:42:27.024
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.024
+!MESSAGE From: Graphical Modeling Framework Runtime 1.0.101.v20080114-2222-7d-EVOEYjiMWaZ4YWeu3dCypkm71 (org.eclipse.gmf.feature.group 1.0.101.v20080114-2222-7d-EVOEYjiMWaZ4YWeu3dCypkm71)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.024
+!MESSAGE To: org.eclipse.gmf.runtime.common.core [1.0.101.v20080118-1415]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:42:27.024
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.024
+!MESSAGE From: Graphical Modeling Framework SDK 2.0.1.v20070921-0000-7f79CSEMnY9yMVlrV-40M7vY1p8w (org.eclipse.gmf.sdk.feature.group 2.0.1.v20070921-0000-7f79CSEMnY9yMVlrV-40M7vY1p8w)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.024
+!MESSAGE To: org.eclipse.gmf.feature.group [1.0.101.v20080114-2222-7d-EVOEYjiMWaZ4YWeu3dCypkm71]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-01-31 13:42:27.029
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:42:27.029
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.029
+!MESSAGE Software being installed: Graphical Modeling Framework SDK 2.0.1.v20070921-0000-7f79CSEMnY9yMVlrV-40M7vY1p8w (org.eclipse.gmf.sdk.feature.group 2.0.1.v20070921-0000-7f79CSEMnY9yMVlrV-40M7vY1p8w)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.029
+!MESSAGE Missing requirement: GMF Common Core 1.0.101.v20080118-1415 (org.eclipse.gmf.runtime.common.core 1.0.101.v20080118-1415) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:42:27.029
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.030
+!MESSAGE From: Graphical Modeling Framework Runtime 1.0.101.v20080114-2222-7d-EVOEYjiMWaZ4YWeu3dCypkm71 (org.eclipse.gmf.feature.group 1.0.101.v20080114-2222-7d-EVOEYjiMWaZ4YWeu3dCypkm71)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.030
+!MESSAGE To: org.eclipse.gmf.runtime.common.core [1.0.101.v20080118-1415]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:42:27.030
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.030
+!MESSAGE From: Graphical Modeling Framework SDK 2.0.1.v20070921-0000-7f79CSEMnY9yMVlrV-40M7vY1p8w (org.eclipse.gmf.sdk.feature.group 2.0.1.v20070921-0000-7f79CSEMnY9yMVlrV-40M7vY1p8w)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:42:27.030
+!MESSAGE To: org.eclipse.gmf.feature.group [1.0.101.v20080114-2222-7d-EVOEYjiMWaZ4YWeu3dCypkm71]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-01-31 13:44:47.201
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:44:47.202
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:44:47.202
+!MESSAGE Software being installed: Graphical Modeling Framework Runtime 1.1.2.v20080916-2008-7c7a7REWvhKvgc1pKGmabT8ukFgQ (org.eclipse.gmf.feature.group 1.1.2.v20080916-2008-7c7a7REWvhKvgc1pKGmabT8ukFgQ)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:44:47.202
+!MESSAGE Missing requirement: GMF Diagram Printing 1.1.2.v20080911-1506 (org.eclipse.gmf.runtime.diagram.ui.printing 1.1.2.v20080911-1506) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:44:47.202
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:44:47.202
+!MESSAGE From: Graphical Modeling Framework Runtime 1.1.2.v20080916-2008-7c7a7REWvhKvgc1pKGmabT8ukFgQ (org.eclipse.gmf.feature.group 1.1.2.v20080916-2008-7c7a7REWvhKvgc1pKGmabT8ukFgQ)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:44:47.202
+!MESSAGE To: org.eclipse.gmf.runtime.diagram.ui.printing [1.1.2.v20080911-1506]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-01-31 13:44:47.208
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:44:47.208
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:44:47.208
+!MESSAGE Software being installed: Graphical Modeling Framework Runtime 1.1.2.v20080916-2008-7c7a7REWvhKvgc1pKGmabT8ukFgQ (org.eclipse.gmf.feature.group 1.1.2.v20080916-2008-7c7a7REWvhKvgc1pKGmabT8ukFgQ)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:44:47.208
+!MESSAGE Missing requirement: GMF Diagram Printing 1.1.2.v20080911-1506 (org.eclipse.gmf.runtime.diagram.ui.printing 1.1.2.v20080911-1506) requires 'bundle com.ibm.icu [3.4.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:44:47.208
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:44:47.208
+!MESSAGE From: Graphical Modeling Framework Runtime 1.1.2.v20080916-2008-7c7a7REWvhKvgc1pKGmabT8ukFgQ (org.eclipse.gmf.feature.group 1.1.2.v20080916-2008-7c7a7REWvhKvgc1pKGmabT8ukFgQ)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:44:47.208
+!MESSAGE To: org.eclipse.gmf.runtime.diagram.ui.printing [1.1.2.v20080911-1506]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-01-31 13:46:44.772
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:46:44.772
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:46:44.772
+!MESSAGE Software being installed: Graphical Modeling Framework SDK 1.0.3.v20070202-1200-wTCADBPc7UMQH87 (org.eclipse.gmf.sdk.feature.group 1.0.3.v20070202-1200-wTCADBPc7UMQH87)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:46:44.772
+!MESSAGE Missing requirement: Graphical Modeling Framework Runtime 1.0.3.v20070202-1200-gW3quizrSB1Fxqp (org.eclipse.gmf.feature.group 1.0.3.v20070202-1200-gW3quizrSB1Fxqp) requires 'org.eclipse.emf.ocl.feature.group [1.0.0,2.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:46:44.772
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:46:44.772
+!MESSAGE From: Graphical Modeling Framework SDK 1.0.3.v20070202-1200-wTCADBPc7UMQH87 (org.eclipse.gmf.sdk.feature.group 1.0.3.v20070202-1200-wTCADBPc7UMQH87)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:46:44.772
+!MESSAGE To: org.eclipse.gmf.feature.group [1.0.3.v20070202-1200-gW3quizrSB1Fxqp]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2012-01-31 13:46:44.776
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:46:44.776
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:46:44.776
+!MESSAGE Software being installed: Graphical Modeling Framework SDK 1.0.3.v20070202-1200-wTCADBPc7UMQH87 (org.eclipse.gmf.sdk.feature.group 1.0.3.v20070202-1200-wTCADBPc7UMQH87)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:46:44.776
+!MESSAGE Missing requirement: Graphical Modeling Framework Runtime 1.0.3.v20070202-1200-gW3quizrSB1Fxqp (org.eclipse.gmf.feature.group 1.0.3.v20070202-1200-gW3quizrSB1Fxqp) requires 'org.eclipse.emf.ocl.feature.group [1.0.0,2.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-31 13:46:44.776
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:46:44.776
+!MESSAGE From: Graphical Modeling Framework SDK 1.0.3.v20070202-1200-wTCADBPc7UMQH87 (org.eclipse.gmf.sdk.feature.group 1.0.3.v20070202-1200-wTCADBPc7UMQH87)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-31 13:46:44.776
+!MESSAGE To: org.eclipse.gmf.feature.group [1.0.3.v20070202-1200-gW3quizrSB1Fxqp]
+
+!ENTRY com.google.gdt.eclipse.managedapis 1 0 2012-01-31 17:24:44.065
+!MESSAGE Failed to load icon cache
+
+!ENTRY com.google.gdt.eclipse.managedapis 1 0 2012-01-31 23:51:35.914
+!MESSAGE Failed to load icon cache
+!SESSION 2012-02-01 14:47:36.482 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2012-02-01 14:50:49.509
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2012-02-01 14:50:49.509
+!MESSAGE A conflict occurred for ALT+CTRL+J:
+Binding(ALT+CTRL+J,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.join.lines,Join Lines,
+		Join lines of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.ui.texteditor.JoinLinesAction@11c5c5c)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+J,
+	ParameterizedCommand(Command(com.cloudgarden.jigloo.commands.openJiglooPrefs,Open Jigloo Preferences Page,
+		Open Jigloo Preferences Page,
+		Category(com.cloudgarden.jigloo.actions.category,Jigloo,Jigloo Actions,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SESSION 2012-02-02 14:58:18.683 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-02-02 14:58:33.405
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui.workbench 4 2 2012-02-02 14:58:36.476
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 1
+org.eclipse.ui.WorkbenchException: Premature end of file.
+	at org.eclipse.ui.XMLMemento.createReadRoot(XMLMemento.java:143)
+	at org.eclipse.ui.XMLMemento.createReadRoot(XMLMemento.java:65)
+	at org.eclipse.ui.internal.Workbench$54.run(Workbench.java:2088)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench.restoreState(Workbench.java:2083)
+	at org.eclipse.ui.internal.WorkbenchConfigurer.restoreState(WorkbenchConfigurer.java:183)
+	at org.eclipse.ui.application.WorkbenchAdvisor$1.run(WorkbenchAdvisor.java:781)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:391)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1391)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1034)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:625)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:488)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:741)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:123)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:239)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:288)
+	at org.eclipse.ui.XMLMemento.createReadRoot(XMLMemento.java:116)
+	... 6 more
+!SUBENTRY 1 org.eclipse.ui 4 0 2012-02-02 14:58:36.477
+!MESSAGE Premature end of file.
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:391)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1391)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1034)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:625)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:488)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:741)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:123)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:239)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:288)
+	at org.eclipse.ui.XMLMemento.createReadRoot(XMLMemento.java:116)
+	at org.eclipse.ui.XMLMemento.createReadRoot(XMLMemento.java:65)
+	at org.eclipse.ui.internal.Workbench$54.run(Workbench.java:2088)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench.restoreState(Workbench.java:2083)
+	at org.eclipse.ui.internal.WorkbenchConfigurer.restoreState(WorkbenchConfigurer.java:183)
+	at org.eclipse.ui.application.WorkbenchAdvisor$1.run(WorkbenchAdvisor.java:781)
+!SUBENTRY 1 org.eclipse.ui 4 0 2012-02-02 14:58:36.478
+!MESSAGE Premature end of file.
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:391)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1391)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1034)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:625)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:488)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:812)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:741)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:123)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:239)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:288)
+	at org.eclipse.ui.XMLMemento.createReadRoot(XMLMemento.java:116)
+	at org.eclipse.ui.XMLMemento.createReadRoot(XMLMemento.java:65)
+	at org.eclipse.ui.internal.Workbench$54.run(Workbench.java:2088)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench.restoreState(Workbench.java:2083)
+	at org.eclipse.ui.internal.WorkbenchConfigurer.restoreState(WorkbenchConfigurer.java:183)
+	at org.eclipse.ui.application.WorkbenchAdvisor$1.run(WorkbenchAdvisor.java:781)
+
+!ENTRY com.google.gdt.eclipse.managedapis 1 0 2012-02-02 14:58:49.928
+!MESSAGE Failed to load icon cache
+
+!ENTRY org.eclipse.jface 2 0 2012-02-02 15:00:36.560
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2012-02-02 15:00:36.560
+!MESSAGE A conflict occurred for ALT+CTRL+J:
+Binding(ALT+CTRL+J,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.join.lines,Join Lines,
+		Join lines of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.ui.texteditor.JoinLinesAction@1198ed3)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+J,
+	ParameterizedCommand(Command(com.cloudgarden.jigloo.commands.openJiglooPrefs,Open Jigloo Preferences Page,
+		Open Jigloo Preferences Page,
+		Category(com.cloudgarden.jigloo.actions.category,Jigloo,Jigloo Actions,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY com.google.gdt.eclipse.managedapis 1 0 2012-02-02 16:58:50.248
+!MESSAGE Failed to load icon cache
+!SESSION 2012-02-03 11:35:57.479 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2012-02-03 11:37:47.469
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2012-02-03 11:37:47.469
+!MESSAGE A conflict occurred for ALT+CTRL+J:
+Binding(ALT+CTRL+J,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.join.lines,Join Lines,
+		Join lines of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.ui.texteditor.JoinLinesAction@bbf64f)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+J,
+	ParameterizedCommand(Command(com.cloudgarden.jigloo.commands.openJiglooPrefs,Open Jigloo Preferences Page,
+		Open Jigloo Preferences Page,
+		Category(com.cloudgarden.jigloo.actions.category,Jigloo,Jigloo Actions,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY com.google.gdt.eclipse.managedapis 1 0 2012-02-03 22:29:00.317
+!MESSAGE Failed to load icon cache
+
+!ENTRY com.google.gdt.eclipse.managedapis 1 0 2012-02-04 07:33:07.443
+!MESSAGE Failed to load icon cache
+!SESSION 2012-02-27 10:19:25.299 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2012-02-27 10:20:32.228
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2012-02-27 10:20:32.228
+!MESSAGE A conflict occurred for ALT+CTRL+J:
+Binding(ALT+CTRL+J,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.join.lines,Join Lines,
+		Join lines of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.ui.texteditor.JoinLinesAction@19af16)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(ALT+CTRL+J,
+	ParameterizedCommand(Command(com.cloudgarden.jigloo.commands.openJiglooPrefs,Open Jigloo Preferences Page,
+		Open Jigloo Preferences Page,
+		Category(com.cloudgarden.jigloo.actions.category,Jigloo,Jigloo Actions,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="79" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="0" y="19">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="146" y="26"/>
+<coolItem id="com.google.gdt.eclipse.suite.GDTPulldownToolbar" itemType="typeToolBarContribution" x="44" y="26"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="108" y="26"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="76" y="26"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="92" y="26"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="132" y="26"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="36" y="26"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="36" y="26"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="164" y="26"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - Java EE">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.internal.EditorStack@e2783a" ratio="0.8040042" ratioLeft="763" ratioRight="186" relationship="2" relative="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlCompiler.java" partName="XmlCompiler.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/compiler/XmlCompiler.java" title="XmlCompiler.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/compiler/XmlCompiler.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/compiler/XmlCompiler.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="15282" selectionTopPixel="6659"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileLoop.java" partName="FileLoop.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/loop/FileLoop.java" title="FileLoop.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/loop/FileLoop.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/loop/FileLoop.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="2353" selectionTopPixel="1442"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MarkingScriptBuilder.java" partName="MarkingScriptBuilder.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/markingscriptbuilder/MarkingScriptBuilder.java" title="MarkingScriptBuilder.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptbuilder/MarkingScriptBuilder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptbuilder/MarkingScriptBuilder.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5831" selectionTopPixel="9618"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MarkingScriptBuilderTest.java" partName="MarkingScriptBuilderTest.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/markingscriptbuilder/tests/MarkingScriptBuilderTest.java" title="MarkingScriptBuilderTest.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptbuilder/tests/MarkingScriptBuilderTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptbuilder/tests/MarkingScriptBuilderTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5279" selectionTopPixel="1772"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="sample_2.xml" partName="sample_2.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_2.xml" title="sample_2.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_2.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_2.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="99"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="exec_2.result" partName="exec_2.result" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/exec_2.result" title="exec_2.result" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_2.result" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_2.result"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="exec_2.setup" partName="exec_2.setup" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/exec_2.setup" title="exec_2.setup" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_2.setup" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_2.setup"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="exec_2.teardown" partName="exec_2.teardown" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/exec_2.teardown" title="exec_2.teardown" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_2.teardown" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_2.teardown"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="exec_2.xml" partName="exec_2.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/exec_2.xml" title="exec_2.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_2.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_2.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="exec_1.xml" partName="exec_1.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/exec_1.xml" title="exec_1.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_1.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_1.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlParser.java" partName="XmlParser.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/xmlparser/XmlParser.java" title="XmlParser.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/XmlParser.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/XmlParser.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChDir.java" partName="ChDir.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/chdir/ChDir.java" title="ChDir.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/chdir/ChDir.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/chdir/ChDir.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1272"/>
+</editor>
+<editor id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="sample_1.xml" partName="sample_1.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_1.xml" title="sample_1.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_1.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_1.xml"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="sample_3.xml" partName="sample_3.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_3.xml" title="sample_3.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_3.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_3.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BashCompiler.java" partName="BashCompiler.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/compiler/BashCompiler.java" title="BashCompiler.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/compiler/BashCompiler.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/compiler/BashCompiler.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="3666" selectionTopPixel="1819"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AllTests.java" partName="AllTests.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/xmlparser/tests/AllTests.java" title="AllTests.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/AllTests.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/AllTests.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlParserTest.java" partName="XmlParserTest.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlParserTest.java" title="XmlParserTest.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlParserTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlParserTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="745"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlValidatorTest.java" partName="XmlValidatorTest.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlValidatorTest.java" title="XmlValidatorTest.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlValidatorTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlValidatorTest.java"/>
+<editorState selectionHorizontalPixel="74" selectionLength="0" selectionOffset="0" selectionTopPixel="2666"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AuthenticationAnswer.java" partName="AuthenticationAnswer.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/Jclient/trunk/fw4exAuthentificated/src/fw4exauthentificated/beans/AuthenticationAnswer.java" title="AuthenticationAnswer.java" tooltip="fw4exAuthentificated/src/fw4exauthentificated/beans/AuthenticationAnswer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fw4exAuthentificated/src/fw4exauthentificated/beans/AuthenticationAnswer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ErrorAnswer.java" partName="ErrorAnswer.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/Jclient/trunk/fw4exAuthentificated/src/fw4exauthentificated/beans/ErrorAnswer.java" title="ErrorAnswer.java" tooltip="fw4exAuthentificated/src/fw4exauthentificated/beans/ErrorAnswer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fw4exAuthentificated/src/fw4exauthentificated/beans/ErrorAnswer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="439"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SampleAction.java" partName="SampleAction.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/Jclient/trunk/fw4exAuthentificated/src/fw4exauthentificated/actions/SampleAction.java" title="SampleAction.java" tooltip="fw4exAuthentificated/src/fw4exauthentificated/actions/SampleAction.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/fw4exAuthentificated/src/fw4exauthentificated/actions/SampleAction.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Factory.java" partName="Factory.java" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/Factory.java" title="Factory.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/Factory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/Factory.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1585" selectionTopPixel="2360"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="sample_1.xml" partName="sample_1.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_1.xml" title="sample_1.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_1.xml" workbook="org.eclipse.ui.internal.EditorStack@e2783a">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_1.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="sample_4.xml" partName="sample_4.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_4.xml" title="sample_4.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_4.xml" workbook="org.eclipse.ui.internal.EditorStack@e2783a">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_4.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="68" selectionOffset="326" selectionTopPixel="16"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="sample_5.xml" partName="sample_5.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_5.xml" title="sample_5.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_5.xml" workbook="org.eclipse.ui.internal.EditorStack@e2783a">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_5.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="676" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="sample_6.xml" partName="sample_6.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_6.xml" title="sample_6.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_6.xml" workbook="org.eclipse.ui.internal.EditorStack@e2783a">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_6.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="49" selectionTopPixel="0"/>
+</editor>
+<editor focus="true" id="org.eclipse.ui.DefaultTextEditor" name="sample_7.xml" partName="sample_7.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_7.xml" title="sample_7.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_7.xml" workbook="org.eclipse.ui.internal.EditorStack@e2783a">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_7.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="286" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="sample_8.xml" partName="sample_8.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_8.xml" title="sample_8.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_8.xml" workbook="org.eclipse.ui.internal.EditorStack@e2783a">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_8.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="236" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="sample_9.xml" partName="sample_9.xml" path="/home/eni/Documents/school/MASTER/PROJET/pstl-fw4ex/marking-script-compiler/tags/marking-script-compiler-1.0/sample_marking_scripts/sample_9.xml" title="sample_9.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_9.xml" workbook="org.eclipse.ui.internal.EditorStack@e2783a">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_9.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="113" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.AllMarkersView" partName="Markers">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.allSeverityField" categoryGroup="org.eclipse.ui.ide.type" markerContentGenerator="org.eclipse.ui.ide.allMarkersGenerator" partName="Markers">
+<expanded>
+<category IMemento.internal.id="Java Exception Breakpoints (2 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.allSeverityField="350" org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="228" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.allSeverityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets"/>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" partName="Data Source Explorer"/>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers"/>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jst.j2ee.J2EEPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.google.gdt.eclipse.core.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="com.google.gdt.eclipse.suite.wizards.newProjectWizard"/>
+<new_wizard_action id="com.google.gwt.eclipse.core.newEntryPointWizard"/>
+<new_wizard_action id="com.google.gwt.eclipse.core.newHostPageWizard"/>
+<new_wizard_action id="com.google.gwt.eclipse.core.newModuleWizard"/>
+<new_wizard_action id="com.google.gwt.eclipse.core.newClientBundleWizard"/>
+<new_wizard_action id="com.google.gwt.eclipse.core.newUiBinderWizard"/>
+<new_wizard_action id="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jpt.ui.jpaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.AllMarkersView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="131072" id="topRight" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.45962265" ratioLeft="609" ratioRight="716" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.94891644" ratioLeft="613" ratioRight="33" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.AllMarkersView" label="Markers"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="Data Source Explorer"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.69947505" ratioLeft="533" ratioRight="229" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/compiler/XmlCompiler.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptbuilder/tests/MarkingScriptBuilderTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_2.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/chdir/ChDir.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_1.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_1.xml"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=PSTL_FW4EX_MarkingScriptCompiler/lib\/xmlunit-1.3.jar&lt;org.custommonkey.xmlunit(XMLAssert.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_3.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_3.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_4.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_4.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_5.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_6.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_7.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_8.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_8.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_9.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_9.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/grammars/marking-script-grammar.rnc"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/compiler/BashCompiler.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/exec_1.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/AllTests.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlParserTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlValidatorTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fw4exAuthentificated/src/fw4exauthentificated/beans/AuthenticationAnswer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fw4exAuthentificated/src/fw4exauthentificated/beans/ErrorAnswer.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/fw4exAuthentificated/src/fw4exauthentificated/actions/SampleAction.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/XmlParser.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/Factory.java"/>
+</editors>
+<item historyLabel="ChDir.java" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_1.xml" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_1.xml" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MarkingScriptBuilderTest.java" index="1">
+<position info="not_deleted" x="5279" y="0"/>
+</item>
+<item historyLabel="XMLAssert.class" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MarkingScriptBuilderTest.java" index="1">
+<position info="not_deleted" x="5279" y="0"/>
+</item>
+<item historyLabel="sample_1.xml" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_2.xml" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_3.xml" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_3.xml" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_1.xml" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_4.xml" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_4.xml" index="10">
+<position info="not_deleted" x="1018" y="0"/>
+</item>
+<item historyLabel="sample_5.xml" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_4.xml" index="10">
+<position info="not_deleted" x="326" y="68"/>
+</item>
+<item historyLabel="sample_5.xml" index="11">
+<position info="not_deleted" x="610" y="33"/>
+</item>
+<item historyLabel="sample_4.xml" index="10">
+<position info="not_deleted" x="326" y="68"/>
+</item>
+<item historyLabel="sample_5.xml" index="11">
+<position info="not_deleted" x="676" y="0"/>
+</item>
+<item historyLabel="sample_6.xml" index="12">
+<position info="not_deleted" x="49" y="0"/>
+</item>
+<item historyLabel="sample_7.xml" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_8.xml" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_8.xml" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_8.xml" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_8.xml" index="15">
+<position info="not_deleted" x="236" y="0"/>
+</item>
+<item historyLabel="sample_7.xml" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_8.xml" index="15">
+<position info="not_deleted" x="236" y="0"/>
+</item>
+<item historyLabel="sample_9.xml" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_9.xml" index="17">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_9.xml" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_9.xml" index="17">
+<position info="not_deleted" x="113" y="0"/>
+</item>
+<item historyLabel="marking-script-grammar.rnc" index="18">
+<position info="not_deleted" x="201" y="0"/>
+</item>
+<item historyLabel="sample_9.xml" index="17">
+<position info="not_deleted" x="113" y="0"/>
+</item>
+<item historyLabel="sample_3.xml" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_9.xml" index="17">
+<position info="not_deleted" x="113" y="0"/>
+</item>
+<item historyLabel="sample_3.xml" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sample_9.xml" index="17">
+<position info="not_deleted" x="113" y="0"/>
+</item>
+<item historyLabel="sample_7.xml" index="13">
+<position info="not_deleted" x="286" y="0"/>
+</item>
+<item historyLabel="XmlCompiler.java" index="0">
+<position/>
+</item>
+<item historyLabel="BashCompiler.java" index="19">
+<position info="not_deleted" x="3666" y="5"/>
+</item>
+<item historyLabel="XmlCompiler.java" index="0">
+<position/>
+</item>
+<item historyLabel="exec_1.xml" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AllTests.java" index="21">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="XmlParserTest.java" index="22">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="XmlValidatorTest.java" index="23">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="AuthenticationAnswer.java" index="24">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ErrorAnswer.java" index="25">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="SampleAction.java" index="26">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="XmlParser.java" index="27">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="XmlCompiler.java" index="0">
+<position info="not_deleted" x="15282" y="0"/>
+</item>
+<item active="true" historyLabel="Factory.java" index="28">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="topRight"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="com.google.gdt.eclipse.login.status.trim"/>
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Factory.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/Factory.java">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/markingscriptrepresentation/Factory.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="asprintf.c" tooltip="pstl/asprintf.c">
+<persistable path="/pstl/asprintf.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SampleAction.java" tooltip="fw4exAuthentificated/src/fw4exauthentificated/actions/SampleAction.java">
+<persistable path="/fw4exAuthentificated/src/fw4exauthentificated/actions/SampleAction.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ErrorAnswer.java" tooltip="fw4exAuthentificated/src/fw4exauthentificated/beans/ErrorAnswer.java">
+<persistable path="/fw4exAuthentificated/src/fw4exauthentificated/beans/ErrorAnswer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AuthenticationAnswer.java" tooltip="fw4exAuthentificated/src/fw4exauthentificated/beans/AuthenticationAnswer.java">
+<persistable path="/fw4exAuthentificated/src/fw4exauthentificated/beans/AuthenticationAnswer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlValidatorTest.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlValidatorTest.java">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlValidatorTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmlParserTest.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlParserTest.java">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/XmlParserTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AllTests.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/AllTests.java">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/xmlparser/tests/AllTests.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BashCompiler.java" tooltip="PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/compiler/BashCompiler.java">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/src/fw4ex/markingscriptcompiler/compiler/BashCompiler.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="marking-script-grammar.rnc" tooltip="PSTL_FW4EX_MarkingScriptCompiler/grammars/marking-script-grammar.rnc">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/grammars/marking-script-grammar.rnc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="sample_9.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_9.xml">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_9.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="sample_8.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_8.xml">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_8.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="sample_7.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_7.xml">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_7.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="sample_6.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_6.xml">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_6.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="sample_5.xml" tooltip="PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_5.xml">
+<persistable path="/PSTL_FW4EX_MarkingScriptCompiler/sample_marking_scripts/sample_5.xml"/>
+</file>
+</mruList>
+</workbench>

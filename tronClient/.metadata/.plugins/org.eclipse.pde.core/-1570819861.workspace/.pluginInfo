@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="821" class="fw4ex_client.Activator" localization="conf/lang" name="FW4EX_Client" project="FW4EX_Client">
+		<library name="lib/commons-httpclient-3.1.jar"/>
+		<library name="."/>
+		<library name="lib/commons-codec-1.3.jar"/>
+		<library name="lib/commons-logging-1.1.1.jar"/>
+	</bundle>
+	<bundle bundleID="819" class="fw4ex.authoride.plugin.Activator" localization="OSGI-INF/l10n/bundle" name="FW4EX AuthorIDE Plugin" project="AuthorIDE">
+		<library name="."/>
+		<library name="rnc/"/>
+		<library name="lib/jdom.jar"/>
+		<library name="lib/tar.jar"/>
+		<library name="lib/activation.jar"/>
+		<library name="lib/commons-configuration-1.6.jar"/>
+		<library name="lib/commons-collections-3.2.1.jar"/>
+		<library name="lib/commons-lang-2.4.jar"/>
+		<library name="lib/commons-logging-1.1.1.jar"/>
+		<library name="lib/commons-codec-1.3.jar"/>
+		<library name="lib/jing.jar"/>
+		<library name="lib/commons-httpclient-3.1.jar"/>
+		<library name="lib/isorelax.jar"/>
+		<library name="lib/saxon.jar"/>
+		<library name="lib/trang.jar"/>
+		<library name="lib/xercesImpl.jar"/>
+		<library name="lib/xml-apis.jar"/>
+		<library name="lib/jaxen-1.1.1.jar"/>
+		<library name="lib/fw4ex-marking-script-compiler-1.0.jar"/>
+	</bundle>
+	<bundle bundleID="820" class="fw4ex.authoride.plugin.Activator" localization="OSGI-INF/l10n/bundle" name="FW4EX AuthorIDE Plugin" project="FW4EX_AuthorIDE_Plugin">
+		<library name="."/>
+		<library name="lib/jdom.jar"/>
+		<library name="lib/tar.jar"/>
+		<library name="lib/activation.jar"/>
+		<library name="lib/commons-configuration-1.6.jar"/>
+		<library name="lib/commons-collections-3.2.1.jar"/>
+		<library name="lib/commons-lang-2.4.jar"/>
+		<library name="lib/commons-logging-1.1.1.jar"/>
+		<library name="lib/commons-codec-1.3.jar"/>
+		<library name="lib/commons-httpclient-3.1.jar"/>
+		<library name="lib/isorelax.jar"/>
+		<library name="lib/jing.jar"/>
+		<library name="lib/saxon.jar"/>
+		<library name="lib/trang.jar"/>
+		<library name="lib/xercesImpl.jar"/>
+		<library name="lib/xml-apis.jar"/>
+		<library name="lib/jaxen-1.1.1.jar"/>
+	</bundle>
+	<bundle bundleID="823" class="fw4exauthentificated.Activator" localization="plugin" name="Fw4exAuthentificated Plug-in" project="fw4exAuthentificated"/>
+	<bundle bundleID="822" class="upmc.pstl.fw4exAuthenticated.Activator" localization="OSGI-INF/l10n/bundle" name="Fw4exAuthenticated Plug-in" project="fw4exAuthenticated">
+		<library name="castor-1.3rc1-core.jar"/>
+		<library name="."/>
+		<library name="castor-1.3rc1.jar"/>
+		<library name="commons-codec-1.3.jar"/>
+		<library name="commons-httpclient-3.1.jar"/>
+		<library name="commons-logging.jar"/>
+		<library name="log4j-1.2.15.jar"/>
+		<library name="ChangeAction_1.0.0.jar"/>
+		<library name="jdom.jar"/>
+	</bundle>
+</map>
